@@ -1,5 +1,7 @@
 {
 
-  "SendTraffic" : false
+  "SendTraffic" : false,
+  "SendTrafficImage" : "https://github.com/A111222111222/host_api/blob/main/icon2.jpg?raw=true",
+  "GameLink" : "google.com"
   
 }
